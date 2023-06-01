@@ -1,4 +1,4 @@
-#  Design and building  deep neural network model 
+#  Design and build deep neural network model 
 
 This is a design  and building of a binary clsassification model using deep neural network—that is, a neural network with multiple neuron layers between the model’s input and output layers, to help a venture fund predict which startups will become financially successful. The design involved compiling a neural network model and testing  different parameters to determine the values that generate the most accurate model
 
